@@ -2,7 +2,7 @@
 
 
 npm install inside frontend folder
-And also inside NoteKeeper directory
+And npm init inside NoteKeeper(main) directory
 
 # Getting Started with Create React App
 
